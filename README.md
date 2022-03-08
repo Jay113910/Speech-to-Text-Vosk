@@ -16,7 +16,7 @@ Project
 |
 └───Recording
 ```
-4. Start the program (test on cmd)
+4. Start the program
 ![start image](imgs/start.png)
 5. Press Ctrl starting record the sound 
 ![listening image](imgs/listening.png)
