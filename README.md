@@ -18,7 +18,7 @@ Project
 ```
 4. Start the program
 ![start image](imgs/start.png)
-5. Press Ctrl starting record the sound 
+5. Press Ctrl to start sound recording
 ![listening image](imgs/listening.png)
 6. Recognize the sound
 ![recognition image](imgs/recognition.png)
