@@ -5,7 +5,7 @@ A real time speech recognition using microphone based on [Vosk](https://alphacep
 ## How to use
 1. Install the necessary libaries. 
     * [Vosk](https://alphacephei.com/vosk/install)
-    * [SpeechRecognition ](https://alphacephei.com/vosk/install)
+    * [SpeechRecognition ](https://pypi.org/project/SpeechRecognition/)
     * [PyAudio](https://pypi.org/project/PyAudio/)
     * ... 
 
