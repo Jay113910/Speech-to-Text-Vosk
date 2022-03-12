@@ -1,6 +1,5 @@
 # Speech_to_Text_Vosk
-A real time speech recognition program using microphone based on [Vosk](https://alphacephei.com/vosk/) speech recognition open source toolkit.
-
+A real time speech recognition program using microphone based on [Vosk](https://alphacephei.com/vosk/) - an open source speech recognition open source toolkit.
 
 ## How to use
 1. Install the necessary libaries. 
