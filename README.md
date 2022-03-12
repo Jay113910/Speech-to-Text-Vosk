@@ -23,6 +23,9 @@ A real time speech recognition program using microphone based on [Vosk](https://
     ```
 
 ## Screen shot
+Test on <br>
+* Windows 10 x64 <br>
+* Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz   3.20 GHz
 ### 1. Start the program
 ![start image](imgs/start.png)
 ### 2. Press Ctrl to start recording
